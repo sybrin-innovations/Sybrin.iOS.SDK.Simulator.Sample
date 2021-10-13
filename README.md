@@ -24,5 +24,5 @@ Visual guide for implementing fix:
 ![Gif showing how to remove MLKit import from .swiftinterface file](images/iOS_Module_Stability.gif)
 
 ### Video Tutorial
-Coming Soon!
+https://youtu.be/7HJDChTbaX0
 
