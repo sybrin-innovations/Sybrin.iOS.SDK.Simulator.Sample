@@ -1,5 +1,5 @@
 # Sybrin.iOS.SDK.Simulator.Sample
-An example project showing how to make use of build schemes to build a project to simulator while the Sybrin SDK's are still part of the project.
+An example project showing how to make use of build schemes to build a project on a simulator while the Sybrin SDK's are still part of the project.
 
 ## How it works
 This project allows you to use different build schemes to omit the Sybrin SDK's from the build process
@@ -8,7 +8,7 @@ To run on a physical device select the 'RealDevice' scheme.
 To run on a simulator select the 'Simulator' scheme.
 
 ## Prerequisites
-The Pods folder have been omitted from the repo due to size constraints. Please run the following commands where relevant.
+The Pods folder has been omitted from the repo due to size constraints. Please run the following commands where relevant.
 
 ### Pods
 Run in the <project_root>/ directory.
